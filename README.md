@@ -13,3 +13,10 @@
 ### 2021
 * https://willi84.github.io/2023-talk-performance-berlin/results/210728-mobile-demo-20210728.html
 * https://willi84.github.io/2023-talk-performance-berlin/results/210728-desktop-demo-20210728.html
+
+
+## ressources
+
+* [NgOptimizedImage directive](https://angular.io/api/common/NgOptimizedImage)
+* [Page Speed Insights](https://pagespeed.web.dev/)
+* [squoosh.app](https://squoosh.app/) - generating webp
