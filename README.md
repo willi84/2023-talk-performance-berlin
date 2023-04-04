@@ -3,8 +3,8 @@
 ## Links
 
 * **Slides**: [bit.ly/performance-berlin](https://bit.ly/performance-berlin)
-* **Demo v11**: [Demo](https://performance-demo.vercel.app/) - [Repo](https://github.com/willi84/performance-demo/tree/main)
-* **Demo v13**: [Demo](https://performance-demo-latest.vercel.app/) - [Repo](https://github.com/willi84/performance-demo-latest/tree/main)
+* **Demo v11**: [Demo](https://performance-demo.vercel.app/) - [Repo](https://github.com/willi84/performance-demo/tree/main) - [Test Result](https://pagespeed.web.dev/analysis/https-performance-demo-vercel-app/gmuyt9pnu0?form_factor=mobile)
+* **Demo v13**: [Demo](https://performance-demo-latest.vercel.app/) - [Repo](https://github.com/willi84/performance-demo-latest/tree/main) - [Test Result](https://pagespeed.web.dev/analysis/https-performance-demo-latest-vercel-app/gl2e4gwcuz?form_factor=mobile)
 * **Demo 2nd hoster**: [localhorst.berlin](https://localhorst.berlin)  (will be removed somewhen)
 
 
