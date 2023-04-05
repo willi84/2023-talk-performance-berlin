@@ -27,3 +27,10 @@
 * https://qwik.builder.io/
 * https://www.rx-angular.io/
 * https://scully.io/
+* https://indepth.dev/posts/1277/are-you-using-scss-properly
+* https://icomoon.io/
+* https://fontello.com/
+* https://cloudconvert.com/
+* https://web.dev/
+* https://pagespeed.web.dev/
+* https://github.com/push-based/user-flow
